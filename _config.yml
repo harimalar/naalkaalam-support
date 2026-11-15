@@ -1,0 +1,16 @@
+title: "Naal Kaalam (நாள்காலம்)"
+description: "Support and legal information for the offline Tamil calendar app."
+lang: en
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+baseurl: "/naalkaalam-support"
+url: "https://harimalar.github.io"
