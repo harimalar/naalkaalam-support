@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="{{ site.description | escape }}">
+  <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+  <style>
+    :root { color-scheme: light dark; --paper: #fffaf0; --ink: #28231f; --muted: #62594e; --accent: #a62d27; --line: #d7cbb9; --note: #f1e7d6; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--paper); color: var(--ink); font: 1rem/1.7 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; overflow-wrap: anywhere; }
+    .page { max-width: 54rem; margin: auto; padding: 1.5rem clamp(1rem, 4vw, 2.5rem) 3rem; }
+    nav { display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; border-bottom: 1px solid var(--line); padding-bottom: 1rem; margin-bottom: 2rem; }
+    a { color: var(--accent); text-underline-offset: .18em; }
+    a:focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; }
+    h1 { font-size: clamp(1.8rem, 5vw, 2.5rem); line-height: 1.25; }
+    h2 { margin-top: 2rem; font-size: 1.35rem; line-height: 1.4; }
+    p, ul, ol { margin: 1rem 0; }
+    li { margin: .5rem 0; }
+    blockquote { margin: 1.5rem 0; padding: .25rem 1rem; background: var(--note); border-left: 4px solid var(--accent); border-radius: .35rem; }
+    table { width: 100%; border-collapse: collapse; font-size: .95rem; }
+    th, td { border: 1px solid var(--line); padding: .7rem; text-align: left; vertical-align: top; }
+    th { background: var(--note); }
+    code { font-size: .9em; }
+    footer { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 1rem; color: var(--muted); font-size: .9rem; }
+    .skip { position: absolute; left: -10000px; }
+    .skip:focus { position: static; display: block; padding: 1rem; }
+    @media (prefers-color-scheme: dark) { :root { --paper: #191b1a; --ink: #f2ebdf; --muted: #c0b7aa; --accent: #ffb09a; --line: #514c44; --note: #2c2e2b; } }
+    @media print { nav, footer, .skip { display: none; } body { background: white; color: black; } .page { max-width: none; padding: 0; } a { color: inherit; } }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <div class="page">
+    <nav aria-label="Legal and support">
+      <a href="{{ '/' | relative_url }}">Support</a>
+      <a href="{{ '/privacy-policy/' | relative_url }}">Privacy</a>
+      <a href="{{ '/terms-and-conditions/' | relative_url }}">Terms</a>
+      <a href="{{ '/disclaimer/' | relative_url }}">Disclaimer</a>
+    </nav>
+    <main id="content">{{ content }}</main>
+    <footer>Naal Kaalam · நாள்காலம் · Malar Hari · <a href="mailto:rajhari@gmail.com">Contact</a></footer>
+  </div>
+</body>
+</html>
