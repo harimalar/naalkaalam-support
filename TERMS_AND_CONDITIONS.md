@@ -6,15 +6,15 @@ permalink: /terms-and-conditions/
 
 # Naal Kaalam (நாள்காலம்) — Terms and Conditions
 
-**Last updated:** November 15, 2026  
+**Last updated:** November 16, 2026  
 **Effective date:** November 15, 2026  
-**Developer:** Malar Hari (மலர் ஹரி)  
+**Developer:** Hari Rajagopalan (creator name: Malar Hari / மலர் ஹரி)  
 **Support contact:** [rajhari@gmail.com](mailto:rajhari@gmail.com)
 
 
 ## 1. These terms and the app
 
-These Terms govern your use of **Naal Kaalam**, also styled **NaalKaalam**, its widgets and related calendar content, to the extent a valid agreement is formed under applicable law. “Developer,” “we,” “us” and “our” mean Malar Hari (மலர் ஹரி). “You” means the person using the app.
+These Terms govern your use of **Naal Kaalam**, also styled **NaalKaalam**, its widgets and related calendar content, to the extent a valid agreement is formed under applicable law. “Developer,” “we,” “us” and “our” mean Hari Rajagopalan, who creates apps under the name Malar Hari (மலர் ஹரி). “You” means the person using the app.
 
 Please read these Terms, the [Privacy Policy](PRIVACY_POLICY.md) and the [Disclaimer](DISCLAIMER.md). If you do not accept the applicable terms, do not use the app. A parent or legal guardian should supervise use by someone who cannot enter into a binding agreement and accept applicable terms where legally necessary. Nothing here gives a minor obligations that applicable law does not allow.
 
@@ -120,7 +120,7 @@ The app is provided by the developer. Apple is not a party to these supplementar
 
 If a provision cannot be enforced, it will be limited or severed to the extent necessary, while the remaining provisions continue where lawful. A failure to enforce a provision on one occasion does not waive it for the future.
 
-**Malar Hari (மலர் ஹரி)**  
+**Hari Rajagopalan (creator name: Malar Hari / மலர் ஹரி)**  
 Support, questions and complaints: [rajhari@gmail.com](mailto:rajhari@gmail.com)
 
 Related documents: [Privacy Policy](PRIVACY_POLICY.md) · [Disclaimer](DISCLAIMER.md).

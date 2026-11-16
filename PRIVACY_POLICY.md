@@ -6,9 +6,9 @@ permalink: /privacy-policy/
 
 # Naal Kaalam (நாள்காலம்) — Privacy Policy
 
-**Last updated:** November 15, 2026  
+**Last updated:** November 16, 2026  
 **Effective date:** November 15, 2026  
-**Developer:** Malar Hari (மலர் ஹரி)  
+**Developer:** Hari Rajagopalan (creator name: Malar Hari / மலர் ஹரி)  
 **Privacy contact:** [rajhari@gmail.com](mailto:rajhari@gmail.com)
 
 
@@ -18,7 +18,7 @@ Naal Kaalam, also styled **NaalKaalam**, is a Tamil daily calendar, Panchangam, 
 
 The calendar, bundled city calculations, horoscope guidance, saved dates, widgets and local reminders work without an internet connection. The app does not send personal information, advertising identifiers, usage history or tracking data to the developer or an analytics provider. We do not sell or rent app-user data, share it for advertising, or build advertising profiles.
 
-This policy explains three distinct situations: information processed locally by the app; information you voluntarily send when contacting support or sharing a card; and services operated separately by Apple, website hosts or your chosen sharing provider. “We,” “us” and “our” mean Malar Hari, the app's developer.
+This policy explains three distinct situations: information processed locally by the app; information you voluntarily send when contacting support or sharing a card; and services operated separately by Apple, website hosts or your chosen sharing provider. “We,” “us” and “our” mean Hari Rajagopalan, the app's developer, who creates apps under the name Malar Hari.
 
 ## 2. Information the app does not collect
 
@@ -105,7 +105,7 @@ We may update this policy when the app, hosting arrangements or applicable requi
 
 ## 12. Contact and related documents
 
-**Malar Hari (மலர் ஹரி)**  
+**Hari Rajagopalan (creator name: Malar Hari / மலர் ஹரி)**  
 Privacy and support: [rajhari@gmail.com](mailto:rajhari@gmail.com)
 
 Read the [Terms and Conditions](TERMS_AND_CONDITIONS.md) and [Astronomical, Astrological and Informational Disclaimer](DISCLAIMER.md).

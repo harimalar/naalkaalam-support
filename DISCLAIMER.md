@@ -6,9 +6,9 @@ permalink: /disclaimer/
 
 # Naal Kaalam (நாள்காலம்) — Astronomical, Astrological and Informational Disclaimer
 
-**Last updated:** November 15, 2026  
+**Last updated:** November 16, 2026  
 **Effective date:** November 15, 2026  
-**Developer:** Malar Hari (மலர் ஹரி)  
+**Developer:** Hari Rajagopalan (creator name: Malar Hari / மலர் ஹரி)  
 **Contact:** [rajhari@gmail.com](mailto:rajhari@gmail.com)
 
 
